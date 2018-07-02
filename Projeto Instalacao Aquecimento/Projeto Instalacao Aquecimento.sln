@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Instalacao Aquecimento", "Projeto Instalacao Aquecimento.csproj", "{E5098630-4F34-B2E7-4F4A-5142CC257E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Instalacao Aquecimento.Editor", "Projeto Instalacao Aquecimento.Editor.csproj", "{F9CC7F2D-2F9D-2B7F-5929-3D7BFA9A3575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5098630-4F34-B2E7-4F4A-5142CC257E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5098630-4F34-B2E7-4F4A-5142CC257E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5098630-4F34-B2E7-4F4A-5142CC257E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5098630-4F34-B2E7-4F4A-5142CC257E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CC7F2D-2F9D-2B7F-5929-3D7BFA9A3575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CC7F2D-2F9D-2B7F-5929-3D7BFA9A3575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CC7F2D-2F9D-2B7F-5929-3D7BFA9A3575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CC7F2D-2F9D-2B7F-5929-3D7BFA9A3575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
