@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/projeto-tese.unity
-    guid: 442e36f1df0dc1c42851b24cc8559ab7
+    path: Assets/scene-1.unity
+    guid: 49f8694e12957934694446789c3a52f7
   - enabled: 1
-    path: Assets/projeto-tese-2.unity
-    guid: d8a0750291551034ea9b0c3e1aa6b018
+    path: Assets/scene-2.unity
+    guid: 7e07da45bfff3fd4f894e2e489f18198
   - enabled: 1
-    path: Assets/projeto-tese-3.unity
-    guid: de04c111eaf8feb4b8852250b9ddfd1c
+    path: Assets/scene-3.unity
+    guid: 26aef0468e8725f4889309c5bcf5c23a
